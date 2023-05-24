@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "206255218677",
+    "project_id": "movieapp-eae22",
+    "storage_bucket": "movieapp-eae22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206255218677:android:0b44c61f44fc8f580bcabc",
+        "android_client_info": {
+          "package_name": "com.example.cinemamovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206255218677-egrj1pshaq0b376emn4lg0g8ittq72i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYHB1tocUR3vlk6pIdBmimqzSGS4CkI7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206255218677-egrj1pshaq0b376emn4lg0g8ittq72i6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "206255218677-300bvcjr95695usmp0pm2tavpqaublj8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cinemamovie"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
